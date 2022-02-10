@@ -1,5 +1,6 @@
 {
-  "name": "galvanize-inbox",
+  "homepage": "https://DanielNitschkeVW.github.id/galvanize-inbox-api",
+  "name": "galvanize-inbox-api",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
