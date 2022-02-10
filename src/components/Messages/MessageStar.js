@@ -4,7 +4,7 @@ import React from 'react'
 
 const MessageStar = ({ starred, id, changeHandler }) =>
     <div className="col-xs-2">
-        <i className={`star fa ${starred ? Stars.Starred : Stars.Unstarred}`} onClick={() => changeHandler({id: id, property: "starred", value: !starred})}></i>
+        <i className={`star fa ${starred ? Stars.Starred : Stars.Unstarred}`} onClick={() => changeHandler({ids: [id], property: "starred", value: !starred})}></i>
     </div>
 
 export default MessageStar

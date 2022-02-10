@@ -2,3 +2,13 @@
   text-align: center;
   height: 100vh;
 }
+
+.url-container {
+  width: calc(max(50ch, 50%));
+  display: flex;
+  margin: auto;
+  align-items: center;
+}
+.url {
+  flex-grow: 1;
+}
