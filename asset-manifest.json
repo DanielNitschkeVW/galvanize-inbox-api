@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/galvanize-inbox/static/css/main.d9554acf.css",
-    "main.js": "/galvanize-inbox/static/js/main.96caa052.js",
-    "static/js/787.3b428ff3.chunk.js": "/galvanize-inbox/static/js/787.3b428ff3.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/galvanize-inbox/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/galvanize-inbox/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/galvanize-inbox/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/glyphicons-halflings-regular.svg": "/galvanize-inbox/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/galvanize-inbox/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/galvanize-inbox/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/glyphicons-halflings-regular.ttf": "/galvanize-inbox/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
-    "static/media/glyphicons-halflings-regular.woff": "/galvanize-inbox/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
-    "static/media/glyphicons-halflings-regular.eot": "/galvanize-inbox/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
-    "static/media/glyphicons-halflings-regular.woff2": "/galvanize-inbox/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
-    "index.html": "/galvanize-inbox/index.html",
-    "main.d9554acf.css.map": "/galvanize-inbox/static/css/main.d9554acf.css.map",
-    "main.96caa052.js.map": "/galvanize-inbox/static/js/main.96caa052.js.map",
-    "787.3b428ff3.chunk.js.map": "/galvanize-inbox/static/js/787.3b428ff3.chunk.js.map"
+    "main.css": "/galvanize-inbox-api/static/css/main.1f83ab0a.css",
+    "main.js": "/galvanize-inbox-api/static/js/main.d6a2defc.js",
+    "static/js/787.21d7f1d9.chunk.js": "/galvanize-inbox-api/static/js/787.21d7f1d9.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/galvanize-inbox-api/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/galvanize-inbox-api/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/galvanize-inbox-api/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/glyphicons-halflings-regular.svg": "/galvanize-inbox-api/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/galvanize-inbox-api/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/galvanize-inbox-api/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/glyphicons-halflings-regular.ttf": "/galvanize-inbox-api/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/galvanize-inbox-api/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/galvanize-inbox-api/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/galvanize-inbox-api/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/galvanize-inbox-api/index.html",
+    "main.1f83ab0a.css.map": "/galvanize-inbox-api/static/css/main.1f83ab0a.css.map",
+    "main.d6a2defc.js.map": "/galvanize-inbox-api/static/js/main.d6a2defc.js.map",
+    "787.21d7f1d9.chunk.js.map": "/galvanize-inbox-api/static/js/787.21d7f1d9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9554acf.css",
-    "static/js/main.96caa052.js"
+    "static/css/main.1f83ab0a.css",
+    "static/js/main.d6a2defc.js"
   ]
 }
